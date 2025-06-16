@@ -2,7 +2,7 @@
 
 A curated list of references to awesome micro-cluster tools, frameworks, libraries, and articles.
 
-A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-powered computer devices.
+A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-powered computers.
 
 ## Contents
 
