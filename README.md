@@ -12,7 +12,7 @@ A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-
 
 ## Unsorted
 
-- [Brocolli](https://github.com/Wei1234c/Broccoli/blob/master/notebooks/demo/Broccoli_readme_en.md) - distributed task queues for ESP32 cluster; [also featured on Hackaday](https://hackaday.com/2018/04/17/build-your-own-supercomputer-with-esp32s/).
+- [Broccoli](https://github.com/Wei1234c/Broccoli/blob/master/notebooks/demo/Broccoli_readme_en.md) - distributed task queues for ESP32 cluster; [also featured on Hackaday](https://hackaday.com/2018/04/17/build-your-own-supercomputer-with-esp32s/).
 
 ---
 
