@@ -6,9 +6,14 @@ A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-
 
 ## Contents
 
+- [Linear Algebra](#linear-algebra)
 - [Unsorted](#unsorted)
 
 ---
+
+## Linear Algebra
+
+- [MicroPython-Matrix](https://gitlab.com/olivierlenoir/MicroPython-Matrix) - MicroPython basic matrix operations
 
 ## Unsorted
 
