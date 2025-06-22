@@ -7,6 +7,7 @@ A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-
 ## Contents
 
 - [Linear Algebra](#linear-algebra)
+- [Neural Network](#neural-network)
 - [Unsorted](#unsorted)
 
 ---
@@ -14,6 +15,10 @@ A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-
 ## Linear Algebra
 
 - [MicroPython-Matrix](https://gitlab.com/olivierlenoir/MicroPython-Matrix) - MicroPython basic matrix operations
+
+## Neural Network
+
+- [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network using an ESP32 with MicroPython
 
 ## Unsorted
 
