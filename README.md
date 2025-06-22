@@ -8,7 +8,7 @@ A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-
 
 - [Linear Algebra](#linear-algebra)
 - [Neural Network](#neural-network)
-- [Unsorted](#unsorted)
+- [Clusters](#clusters)
 
 ---
 
@@ -20,7 +20,7 @@ A micro-cluster is a cluster / grid of micro-controllers that act as cheap, low-
 
 - [MicroPython-NeuralNetwork](https://gitlab.com/olivierlenoir/MicroPython-NeuralNetwork) - Neural Network using an ESP32 with MicroPython
 
-## Unsorted
+## Clusters
 
 - [Broccoli](https://github.com/Wei1234c/Broccoli/blob/master/notebooks/demo/Broccoli_readme_en.md) - distributed task queues for ESP32 cluster; [also featured on Hackaday](https://hackaday.com/2018/04/17/build-your-own-supercomputer-with-esp32s/).
 
